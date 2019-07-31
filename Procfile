@@ -1,1 +1,1 @@
-web: gunicorn HTMLCalender.wsgi --log-file -
+web: gunicorn HTMLCalendar.wsgi --log-file -
